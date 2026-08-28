@@ -1,0 +1,6 @@
+{
+  "name": "ASELA SCANNER",
+  "description": "Node.js tabanlı çok sayfalı Google arama sonuçları URL toplayıcı ve derin SERP analiz aracı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
