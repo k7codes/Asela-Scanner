@@ -1,7 +1,7 @@
 # Asela Dork Scanner
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourname/asela-dork-scanner/main/banner.png" width="900" alt="Asela Dork Scanner">
+  <img src="https://raw.githubusercontent.com/k7codes/asela-dork-scanner/main/banner.png" width="900" alt="Asela Dork Scanner">
 </p>
 
 <p align="center">
